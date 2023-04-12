@@ -1,0 +1,36 @@
+{
+  "name": "charka-site",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@types/react-dom": "18.0.11",
+    "eslint": "8.36.0",
+    "eslint-config-next": "13.2.4",
+    "next": "13.2.4",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-is": "^18.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "^18.15.11",
+    "@types/parallax-js": "^3.1.0",
+    "@types/react": "^18.0.34",
+    "@types/styled-components": "^5.1.26",
+    "autoprefixer": "^10.4.14",
+    "babel-plugin-styled-components": "^2.0.7",
+    "framer-motion": "^10.9.2",
+    "parallax-js": "^3.1.0",
+    "postcss": "^8.4.21",
+    "react-inlinesvg": "^3.0.2",
+    "react-use": "^17.4.0",
+    "styled-components": "^5.3.9",
+    "tailwindcss": "^3.3.0",
+    "typescript": "^5.0.4"
+  }
+}
